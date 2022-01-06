@@ -14,14 +14,6 @@ Teaching Staff
 徐百嫻
 </td>
 
-<!-- <td style="text-align:center">
-
-![SCHsu](/images/portrait-SCHsu.png)
-
-<a href="http://faculty.washington.edu/schsu">Shih-Chieh Hsu</a>
-<br>
-徐士傑
-</td> -->
 </tr>
 </table>
 
@@ -41,11 +33,11 @@ Teaching Staff
             
 <td style="text-align:center">
 
-<!-- ![CJLi](/images/portrait-Li.png) -->
+![CJLi](/images/portrait-strawman.png)
 
 <a href="">Chiau Jou Li</a>
 <br>
 李巧柔
 </td>
-</tr>
+        </tr>
 </table>
