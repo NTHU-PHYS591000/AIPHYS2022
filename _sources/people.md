@@ -21,9 +21,9 @@ Teaching Staff
 <a href="http://faculty.washington.edu/schsu">Shih-Chieh Hsu</a>
 <br>
 徐士傑
-</td>
-        </tr>
-</table> -->
+</td> -->
+</tr>
+</table>
 
 
 ## Teaching Assistant
@@ -47,3 +47,5 @@ Teaching Staff
 <br>
 李巧柔
 </td>
+</tr>
+</table>
