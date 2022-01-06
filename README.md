@@ -1,4 +1,4 @@
-# PHYS591000
+# 11020PHYS591000
 
 This course website source codes is powered by [Jupyter Book](https://jupyterbook.org). 
 You can install it by following this [instruction](https://jupyterbook.org/intro.html#install-jupyter-book)
@@ -8,7 +8,7 @@ You can install it by following this [instruction](https://jupyterbook.org/intro
 Clone the current repository to a location on your local computer. You can do this via the command line with:
 
 ```
-git clone https://github.com/NTHU-AIPHYS2021/AIPHYS2022
+git clone https://github.com/NTHU-PHYS591000/AIPHYS2022
 ```
 ## Build your book
 
@@ -49,4 +49,4 @@ ghp-import -n -p -f _build/html
 ```
 
 Typically after a few minutes your site should be viewable online at a url such as: 
-https://NTHU-AIPHYS2021.github.io/AIPHYS2022/. 
+https://NTHU-PHYS591000.github.io/AIPHYS2022/. 
