@@ -8,5 +8,5 @@
 #  sections:
 #    - file: markdown
 #    - file: notebooks
-# - file: people
+- file: people
 - file: resource
