@@ -33,7 +33,7 @@ Teaching Staff
             
 <td style="text-align:center">
 
-![CJLi](/images/portrait-strawman.png)
+![CJLi](/images/portrait-CJLi.png)
 
 <a href="">Chiau Jou Li</a>
 <br>
