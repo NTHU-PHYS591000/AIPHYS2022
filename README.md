@@ -8,13 +8,13 @@ You can install it by following this [instruction](https://jupyterbook.org/intro
 Clone the current repository to a location on your local computer. You can do this via the command line with:
 
 ```
-git clone https://github.com/NTHU-AIPHYS2021/11020PHYS591000
+git clone https://github.com/NTHU-AIPHYS2021/AIPHYS2022
 ```
 ## Build your book
 
 Once you’ve added content and configured your book, you can build outputs for your book..
 ```
-jupyter-book build 11020PHYS591000
+jupyter-book build AIPHYS2022
 ```
 ## Local preview
 
@@ -29,7 +29,7 @@ Now you need to sync your local and remote (i.e., online) repositories.
 You can do this with the following commands:
 
 ```
-cd 11020PHYS591000
+cd AIPHYS2022
 git add ./*
 git commit -m "your comments"
 git push
@@ -44,9 +44,9 @@ GitHub branch gh-pages. It can be installed by following [instruction](https://j
 From the master branch of your book’s root directory (which contains the _build/html folder) 
 call ghp-import and point it to your HTML files, like so:
 ``` 
-cd 11020PHYS591000
+cd AIPHYS2022
 ghp-import -n -p -f _build/html
 ```
 
 Typically after a few minutes your site should be viewable online at a url such as: 
-https://NTHU-AIPHYS2021.github.io/11020PHYS591000/. 
+https://NTHU-AIPHYS2021.github.io/AIPHYS2022/. 
