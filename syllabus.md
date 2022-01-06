@@ -4,7 +4,6 @@ Syllabus
 
 ## Course Description
 
-
 The course "Hands-on Artificial Intelligence (AI) for Physics" is a project-based upper division course aimed to provide practical  skills to perform research with neural networks.
 We will survey the fundamentals of learning in Artificial Neural Networks (ANN) and describe the underlying principles making neural networks generic computing frameworks. We will then build computational skills for training different types of neural networks, such as Convolutional networks, Recurrent Neural Network, Generative Neural Network. 
 Students will learn how to apply the state-of-the-art AI and data science tools on cutting-edge research problems in interdisciplinary fields in physics including particle physics, condensed matter physics and astronomy.
@@ -19,8 +18,9 @@ This is an evidence-based learning course. Students are expected to study record
 
 * Course: 11020PHYS591000, National Tsing hua University
 * Lecture Time:  10:10-11:00 Wed
-* Lab Time: 11:10-13:00 Wed
+* In-class exercise/Lab Time: 11:10-13:00 Wed
 * Location: Physics Building (物理館）R208
+* Total People: 24
 * Credit: 3 credits, graded
 
 ## Requirements
