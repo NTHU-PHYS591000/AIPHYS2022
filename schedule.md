@@ -1,9 +1,26 @@
 Schedule
 ============================
 
-|Week|Topic|Quiz|Lab|
+|Date|Week|Topic|Lab|
 |--|--|--|--|
-|TBA|TBA|TBA|TBA|
+|02/16|01|[Introduction](weeks/01.md)|TBA|
+|02/23|02|[Classification and Regression](weeks/02.md)|TBA|
+|03/02|03|[kNN, k-means and/or Logistic Regression](weeks/03.md)|TBA|
+|03/09|04|[(B)DT and Random Forests](weeks/04.md)|TBA|
+|03/16|05|[Support Vector Machine (SVM)](weeks/05.md)|TBA|
+|03/23|06|[Introduction to Neural Network (Deep learning/DNN)](weeks/06.md)|TBA|
+|03/30|07|[Continue with DNN and Introduction to Final Projects](weeks/07.md)|TBA|
+|04/06|08|Spring break (no class)|--|
+|04/13|09|[Convolutional Neural Network-1](weeks/09.md)|TBA|
+|04/20|10|[Convolutional Neural Network-2](weeks/10.md)|TBA|
+|04/27|11|[Recurrent Neural Network-1](weeks/11.md)|TBA|
+|05/04|12|[Recurrent Neural Network-2](weeks/12.md)|TBA|
+|05/11|13|[Generative Adversarial Network-1](weeks/13.md)|TBA|
+|05/18|14|[Generative Adversarial Network-2](weeks/14.md)|TBA|
+|05/25|15|[Guest Lecture](weeks/15.md)|TBA|
+|06/01|16|[Final Project Competitions and Discussions](weeks/16.md)|TBA|
+|06/08|17|[Final Project Oral Presentations](weeks/17.md)|TBA|
+|06/15|18|No Class|--|
 
 <!-- 
 |01|[Introduction](weeks/01.md) | [video](https://www.youtube.com/watch?v=l76tYKxM4iY) [slide](https://docs.google.com/presentation/d/1jQHceJUxmad4FOLLd_9odUMOTYluUsAT2w4WdQO7fUg/edit?usp=sharing) | [quiz](https://forms.gle/MoYQXECTnNAzvZtJ9) [kaggle](https://www.kaggle.com/t/0ab0b4ca1e6c4de38b9fae31ad517613) | [lab](https://www.kaggle.com/c/phys591000-week01/) |
