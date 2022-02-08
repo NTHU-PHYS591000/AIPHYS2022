@@ -3,7 +3,7 @@ Schedule
 
 |Date|Week|Topic|Lab|
 |--|--|--|--|
-|02/16|01|[Introduction](weeks/01.md)|TBA|
+|02/16|01|[Introduction](https://docs.google.com/presentation/d/1uUmY43CdW-BA5Nhx7iyqD42SU6m2fTaWL9a32SwGs-E/edit#slide=id.p)|[Link](https://www.kaggle.com/t/77eee93640364abe87deaf72cb31b582)|
 |02/23|02|[Classification and Regression](weeks/02.md)|TBA|
 |03/02|03|[kNN, k-means and/or Logistic Regression](weeks/03.md)|TBA|
 |03/09|04|[(B)DT and Random Forests](weeks/04.md)|TBA|
