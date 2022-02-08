@@ -11,8 +11,26 @@ Students will learn how to apply the state-of-the-art AI and data science tools 
 
 ## Classroom Format
 
-This is an evidence-based learning course. Students are expected to study recorded lecture videos and answer on-line quizzes before coming to the class. Students will work out a set of in-class quizzes during lecture time to enhance their understanding of course materials. Students need to carry out hands-on assignments in the Software lab guided by teaching assistants. Finally, each student needs to carry out a final project by using their own research data or open data provided by the instructor.
+* Experience-based learning: 
+  * Work out a set of in-class exercise during lectures
 
+* Post-lecture `Lab`:
+  * Carry out hands-on assignments (homework)
+
+* Final project
+  * Apply machine learning techniques on data provided by instructors
+
+* For in-class exercise and labs: work in groups of two assigned by instructors; rotate every week.
+  * Submit one homework for two people
+
+
+* For final project: find your own teammate (2 people/team). 
+  * At least two teams will be working on the same project
+  * A kaggle competition will be setup for each project
+  * An oral presentation (in English) for each team. Both members have to speak.
+
+<!-- This is an evidence-based learning course. Students are expected to study recorded lecture videos and answer on-line quizzes before coming to the class. Students will work out a set of in-class quizzes during lecture time to enhance their understanding of course materials. Students need to carry out hands-on assignments in the Software lab guided by teaching assistants. Finally, each student needs to carry out a final project by using their own research data or open data provided by the instructor.
+ -->
 
 ## Logistics
 
@@ -30,32 +48,24 @@ This is an evidence-based learning course. Students are expected to study record
 
 
 ## Grading 
-TBA
-<!-- There is a total of 16 pre-lecture quiz, 16 in-class quiz and 16 lab  assignments. Each component will be based on the best 12 grades.
 
-* Class Participation - 30%
-  * Pre-lecture quiz: 6% 
-  * In-class quiz: 24%
-* Software Lab - 36%
-* Project - 34%
-  * Preliminary presentation 10%
-  * Final presentation 12%
-  * Written report 12%
+* Class Participation - 10%
+* Lab/Homework - 60%
+  * 10-12 sets of assignments
+  * Due: Noon on Fridays (No late submissions)
+* Final Project - 30%
+  * Oral presentation: 15%
+  * Final project results: 10%
+  * Kaggle competition: 5%
 
-Assignment due and late submission penalty
-* Pre-lecture quiz: 
-  * due 10:00am Wed 
-  * prior to the lecture, no late submission
-* In-class quiz: 
-  * due 11:59pm Wed 
-  * no late submission
-* Software lab: 
-  * TA sign-off due 13:00pm Wed
-  * post-lab submission due 11:59pm Wed (full points)
-  * late submission due 11:59pm Fri (80%) -->
+* ```Note: 10 points (10% of final grades) off for absence without permission for the following events```
+  * Guest lecture (Week 15 05/25; TBC)
+  * Final project discussions (Week 16 06/01)
+  * Final project oral presentations (Week 17 06/08)
 
 
-## Project
+
+<!-- ## Project
 
 Two people will be teammed up to work on a project.
 The bulk of the first half of the project will focus on the task of feature explorations.
@@ -65,8 +75,11 @@ The written report can be produced in a 4-page 2-column Physical Review Letters 
 The LaTeX package (RevTeX) can be found here: <https://journals.aps.org/revtex>
 More information can be found here: <https://journals.aps.org/prl/authors>
 
+ -->
 
-## Section Participation
+
+
+<!-- ## Section Participation
 
 Participation in the weekly discussion section is *mandatory*. 
 Each week, you are responsible for doing the reading/task assigned in the [schedule](schedule.md). 
@@ -77,6 +90,6 @@ These questions are meant to focus your work for the week and help prepare you f
 If you have questions about your work, please ask them in section or office hours.
 
 You are responsible for the entire weekly reading/task, even if portions are not covered in the weekly questions.
-The weekly tasks are the building blocks for the project proposals/assignments due at the end of the quarter.
+The weekly tasks are the building blocks for the project proposals/assignments due at the end of the quarter. -->
 
 
