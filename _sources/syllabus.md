@@ -37,7 +37,7 @@ Students will learn how to apply the state-of-the-art AI and data science tools 
 * Course: 11020PHYS591000, National Tsing hua University
 * Lecture Time:  10:10-11:00 Wed
 * In-class exercise/Lab Time: 11:10-13:00 Wed
-* Location: Physics Building (物理館）R208
+* Location: General Building II (綜二）R521
 * Total People: 24
 * Credit: 3 credits, graded
 
