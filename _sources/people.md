@@ -20,9 +20,9 @@ Teaching Staff
 
 ## Teaching Assistant
 
-<table border='1'>
+<table border='0'>
         <tr>
-            <td style="text-align:center">
+            <td style="text-align:center" width="300">
 
 ![YIChung](/images/portrait-Chung.png)
 
@@ -33,7 +33,7 @@ Teaching Staff
 s107022801@m107.nthu.edu.tw
 </td>
             
-<td style="text-align:center">
+<td style="text-align:center" width="200">
 
 ![CJLi](/images/portrait-CJLi.png)
 
