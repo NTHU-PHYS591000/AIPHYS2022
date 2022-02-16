@@ -26,7 +26,7 @@ Teaching Staff
 
 ![YIChung](/images/portrait-Chung.png)
 
-<a href="mailto:alan200276@gmail.com">Yi-Lun (Alan) Chung</a>
+<a href="mailto:alan200276@gmail.com"><u>Yi-Lun (Alan) Chung</u></a>
 <br>
 鍾沂倫
 </td>
@@ -35,7 +35,7 @@ Teaching Staff
 
 ![CJLi](/images/portrait-CJLi.png)
 
-<a href="mailto:sips50333@gmail.com">Chiau Jou Li</a>
+<a href="mailto:sips50333@gmail.com"><u>Chiau Jou Li</u></a>
 <br>
 李巧柔
 </td>
