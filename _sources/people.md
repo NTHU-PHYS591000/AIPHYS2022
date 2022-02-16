@@ -26,7 +26,7 @@ Teaching Staff
 
 ![YIChung](/images/portrait-Chung.png)
 
-<a href="mailto:s107022801@m107.nthu.edu.tw"><u>Yi-Lun (Alan) Chung</u></a>
+<a href="s107022801@m107.nthu.edu.tw"><u>Yi-Lun (Alan) Chung</u></a>
 <br>
 鍾沂倫
 </td>
@@ -35,7 +35,7 @@ Teaching Staff
 
 ![CJLi](/images/portrait-CJLi.png)
 
-<a href="mailto:sips50333@gmail.com"><u>Chiau Jou Li</u></a>
+<a href="sips50333@gmail.com"><u>Chiau Jou Li</u></a>
 <br>
 李巧柔
 </td>
