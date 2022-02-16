@@ -29,6 +29,7 @@ Teaching Staff
 <a href="mailto:alan200276@gmail.com"><u>Yi-Lun (Alan) Chung</u></a>
 <br>
 鍾沂倫
+alan200276@gmail.com
 </td>
             
 <td style="text-align:center">
@@ -38,6 +39,7 @@ Teaching Staff
 <a href="mailto:sips50333@gmail.com"><u>Chiau Jou Li</u></a>
 <br>
 李巧柔
+sips50333@gmail.com
 </td>
         </tr>
 </table>
