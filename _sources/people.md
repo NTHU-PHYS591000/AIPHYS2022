@@ -20,7 +20,7 @@ Teaching Staff
 
 ## Teaching Assistant
 
-<table border='0' >
+<table border='0' width='200'>
         <tr>
             <td style="text-align:center">
 
@@ -30,7 +30,7 @@ Teaching Staff
 <br>
 鍾沂倫
 <br>
-s107022801@m107.nthu.edu.tw  
+s107022801@m107.nthu.edu.tw
 </td>
             
 <td style="text-align:center">
@@ -41,7 +41,7 @@ s107022801@m107.nthu.edu.tw
 <br>
 李巧柔
 <br>
-  sips50333@gmail.com
+sips50333@gmail.com
 </td>
         </tr>
 </table>
