@@ -20,7 +20,7 @@ Teaching Staff
 
 ## Teaching Assistant
 
-<table border='0' width='200'>
+<table border='0' width='800'>
         <tr>
             <td style="text-align:center">
 
