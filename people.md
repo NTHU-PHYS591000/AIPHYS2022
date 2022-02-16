@@ -26,7 +26,7 @@ Teaching Staff
 
 ![YIChung](/images/portrait-Chung.png)
 
-<a href="alan200276@gmail.com"><u>Yi-Lun (Alan) Chung</u></a>
+<a href="s107022801@m107.nthu.edu.tw"><u>Yi-Lun (Alan) Chung</u></a>
 <br>
 鍾沂倫
 </td>
