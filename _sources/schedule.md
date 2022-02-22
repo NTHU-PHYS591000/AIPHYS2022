@@ -4,10 +4,10 @@ Schedule
 |Date|Week|Topic|Lab|
 |--|--|--|--|
 |02/16|01|[Introduction](https://docs.google.com/presentation/d/1uUmY43CdW-BA5Nhx7iyqD42SU6m2fTaWL9a32SwGs-E/edit#slide=id.p)|[Link](https://www.kaggle.com/t/77eee93640364abe87deaf72cb31b582)|
-|02/23|02|[Classification and Regression](https://docs.google.com/presentation/d/1DnEhneZKhNZ21QwKp6mDySC1Gs4vsoEbSUgIdi5gn5I/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/t/3febe16eb39b47a3b3d514ff25551e71)|
-|03/02|03|[kNN, k-means and/or Logistic Regression](weeks/03.md)|TBA|
-|03/09|04|[(B)DT and Random Forests](weeks/04.md)|TBA|
-|03/16|05|[Support Vector Machine (SVM)](weeks/05.md)|TBA|
+|02/23|02|[Classification](https://docs.google.com/presentation/d/1DnEhneZKhNZ21QwKp6mDySC1Gs4vsoEbSUgIdi5gn5I/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/t/3febe16eb39b47a3b3d514ff25551e71)|
+|03/02|03|[Regression](weeks/03.md)|TBA|
+|03/09|04|[kNN, k-means and/or Logistic Regression](weeks/04.md)|TBA|
+|03/16|05|[(B)DT, Random Forests and Support Vector Machine (SVM)](weeks/05.md)|TBA|
 |03/23|06|[Introduction to Neural Network (Deep learning/DNN)](weeks/06.md)|TBA|
 |03/30|07|[Continue with DNN and Introduction to Final Projects](weeks/07.md)|TBA|
 |04/06|08|Spring break (no class)|--|
