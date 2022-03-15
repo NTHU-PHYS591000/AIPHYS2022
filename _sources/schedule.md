@@ -7,7 +7,7 @@ Schedule
 |02/23|02|[Classification](https://docs.google.com/presentation/d/1DnEhneZKhNZ21QwKp6mDySC1Gs4vsoEbSUgIdi5gn5I/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/t/3febe16eb39b47a3b3d514ff25551e71)|
 |03/02|03|[Regression](https://docs.google.com/presentation/d/1ed8K375hVn7yIsStQaioNtptTpiNDVGBeec3bp7iyLc/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/t/a6ead5ea156a4d3ba2fa22a9e1f87ebf)|
 |03/09|04|[kNN, k-means and/or Logistic Regression](https://docs.google.com/presentation/d/1jihTtW9_vmNICURj6dOixXdrzvtz3MfC65uU70ublOg/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/c/phys591000-2022-week04/overview)|
-|03/16|05|[(B)DT, Random Forests and Support Vector Machine (SVM)](weeks/05.md)|TBA|
+|03/16|05|[(B)DT, Random Forests and Support Vector Machine (SVM)](https://docs.google.com/presentation/d/1MCuneN_v2XrWshx3YAoC8uudFyIypVpBh9J1lWNyFGk/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/c/phys591000-2022-week05/overview)|
 |03/23|06|[Introduction to Neural Network (Deep learning/DNN)](weeks/06.md)|TBA|
 |03/30|07|[Continue with DNN and Introduction to Final Projects](weeks/07.md)|TBA|
 |04/06|08|Spring break (no class)|--|
