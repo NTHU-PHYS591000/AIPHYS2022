@@ -9,7 +9,7 @@ Schedule
 |03/09|04|[kNN, k-means and/or Logistic Regression](https://docs.google.com/presentation/d/1jihTtW9_vmNICURj6dOixXdrzvtz3MfC65uU70ublOg/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/c/phys591000-2022-week04/overview)|
 |03/16|05|[(B)DT, Random Forests and Support Vector Machine (SVM)](https://docs.google.com/presentation/d/1MCuneN_v2XrWshx3YAoC8uudFyIypVpBh9J1lWNyFGk/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/c/phys591000-2022-week05/overview)|
 |03/23|06|[Introduction to Neural Network (Deep learning/DNN)](https://docs.google.com/presentation/u/1/d/1Dxr5U8n_2ZZ37B0tlJrzPDn4swiTtaMmisZBzoXuihY/edit?usp=sharing)|[Link](https://www.kaggle.com/t/9eb01aaa41144c51ac059ee005d7c90e)|
-|03/30|07|[Continue with DNN and Introduction to Final Projects](weeks/07.md)|TBA|
+|03/30|07|[Continue with DNN: More about Neural Networks](https://docs.google.com/presentation/d/13jbpvUEWV20-mKC-WmwwLQjfBBnDp5n33Mh64u85Jkk/edit#slide=id.gc40c71273a_0_0)[Introduction to Final Projects](https://docs.google.com/presentation/d/1rc8vm0EHMvdowaIxEhofFEKWosXHySkw2ryGLHPyqyo/edit#slide=id.gf3bab43c99_0_0) |[Link](https://www.kaggle.com/t/ae3125f720fd499abfd0313ad9d38577)|
 |04/06|08|Spring break (no class)|--|
 |04/13|09|[Convolutional Neural Network-1](weeks/09.md)|TBA|
 |04/20|10|[Convolutional Neural Network-2](weeks/10.md)|TBA|
