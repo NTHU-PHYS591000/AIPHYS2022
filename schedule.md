@@ -12,7 +12,7 @@ Schedule
 |03/30|07|[Continue with DNN: More about Neural Networks](https://docs.google.com/presentation/d/13jbpvUEWV20-mKC-WmwwLQjfBBnDp5n33Mh64u85Jkk/edit#slide=id.gc40c71273a_0_0) |[Link](https://www.kaggle.com/t/ae3125f720fd499abfd0313ad9d38577)|
 |||[Introduction to Final Projects](https://docs.google.com/presentation/d/1rc8vm0EHMvdowaIxEhofFEKWosXHySkw2ryGLHPyqyo/edit#slide=id.gf3bab43c99_0_0) ||
 |04/06|08|Spring break (no class)|--|
-|04/13|09|[Convolutional Neural Network-1](weeks/09.md)|TBA|
+|04/13|09|[Convolutional Neural Network-1](https://docs.google.com/presentation/d/1hY1izVRykpXuSEN235bzW0MG_XYRFNTIU8SFGI-gYbg/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/t/1a941580743a4da8a39ba95513a54067)|
 |04/20|10|[Convolutional Neural Network-2](weeks/10.md)|TBA|
 |04/27|11|[Recurrent Neural Network-1](weeks/11.md)|TBA|
 |05/04|12|[Recurrent Neural Network-2](weeks/12.md)|TBA|
