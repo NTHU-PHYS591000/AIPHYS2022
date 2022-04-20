@@ -13,7 +13,7 @@ Schedule
 |||[Introduction to Final Projects](https://docs.google.com/presentation/d/1rc8vm0EHMvdowaIxEhofFEKWosXHySkw2ryGLHPyqyo/edit#slide=id.gf3bab43c99_0_0) ||
 |04/06|08|Spring break (no class)|--|
 |04/13|09|[Convolutional Neural Network-1](https://docs.google.com/presentation/d/1hY1izVRykpXuSEN235bzW0MG_XYRFNTIU8SFGI-gYbg/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/t/1a941580743a4da8a39ba95513a54067)|
-|04/20|10|[Convolutional Neural Network-2](weeks/10.md)|TBA|
+|04/20|10|[Convolutional Neural Network-2](https://docs.google.com/presentation/d/1fVowTm5yBOnsqviSr58pOF34zEWgXU4mMzd4YZY-RhI/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/t/1021f422964f46e087487c477c21114d)|
 |04/27|11|[Recurrent Neural Network-1](weeks/11.md)|TBA|
 |05/04|12|[Recurrent Neural Network-2](weeks/12.md)|TBA|
 |05/11|13|[Generative Adversarial Network-1](weeks/13.md)|TBA|
