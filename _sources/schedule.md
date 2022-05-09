@@ -16,7 +16,7 @@ Schedule
 |04/20|10|[Convolutional Neural Network-2](https://docs.google.com/presentation/d/1fVowTm5yBOnsqviSr58pOF34zEWgXU4mMzd4YZY-RhI/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/t/1021f422964f46e087487c477c21114d)|
 |04/27|11|[Recurrent Neural Network-1](https://docs.google.com/presentation/d/1CboJJvgAdjvOAU9q2cgfQnyDLA3uNFY9eosP4mipvkk/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/t/7ec662b78d6f4dfc881515803016a4b0)|
 |05/04|12|[Generative Models-VAE](https://docs.google.com/presentation/d/1smxsRsQSycbijUDxD4UOdrlDudN7GQTm3aLj2li-Cp4/edit#slide=id.g1269b845948_0_86)|[Link](https://www.kaggle.com/t/54612858123e407c880321201633e40e)|
-|05/11|13|[Generative Adversarial Network](weeks/13.md)|TBA|
+|05/11|13|[Generative Adversarial Network](https://docs.google.com/presentation/d/1_CjdKU_eHhrXM9F2EPogO9gzBciRnsUY6zcDiXR8kx0/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/t/61e6fd6e5aeb407b94f24e580c3afb4e)|
 |05/18|14|[Summary and Further Material ](weeks/14.md)|TBA|
 |05/25|15|[Guest Lecture](weeks/15.md)|TBA|
 |06/01|16|[Final Project Competitions and Discussions](weeks/16.md)|TBA|
