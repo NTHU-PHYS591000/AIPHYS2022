@@ -19,6 +19,6 @@ Schedule
 |05/11|13|[Generative Adversarial Network](https://docs.google.com/presentation/d/1_CjdKU_eHhrXM9F2EPogO9gzBciRnsUY6zcDiXR8kx0/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/t/61e6fd6e5aeb407b94f24e580c3afb4e)|
 |05/18|14|[Summary and Further Material ](https://docs.google.com/presentation/d/17fLml3BgV90jKuzog45aRy3-EMeOfcyoU_estKJ0xP4/edit#slide=id.gf3bab43c99_0_0)|--|
 |05/25|15|Guest Lecture|[Slide](https://github.com/NTHU-PHYS591000/AIPHYS2022/blob/master/file/Some%20Applications%20of%20ML%20in%20Many-Body%20Physics.pdf)|
-|06/01|16|[Final Project Competitions and Discussions](weeks/16.md)|TBA|
-|06/08|17|[Final Project Oral Presentations](weeks/17.md)|TBA|
+|06/01|16|[Final Project Competitions and Discussions](weeks/16.md)|[Indico Page](https://indico.cern.ch/event/1165855/)|
+|06/08|17|[Final Project Oral Presentations](weeks/17.md)|[Indico Page](https://indico.cern.ch/event/1168293/)|
 |06/15|18|No Class|--|
